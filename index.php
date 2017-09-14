@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html>
 <head>
 
 	<title>Hisham Elhaggaz</title>
-	<meta charset="utf-8">
+	<meta charset="utf-8" type="text/css"/>
 	<link href='css/main.css' rel='stylesheet'>
 
 </head>
@@ -14,7 +15,7 @@
 
 		<div class="container">
 		  <div class="center">
-		    <img src='images/hisham.jpg' alt='Hisham Elhaggaz' />
+		    <img src='images/hisham.jpg' alt='Hisham Elhaggaz'>
 		  </div>
 		</div>
 
