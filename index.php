@@ -11,7 +11,7 @@
 
 	<div class="container">
 
-		<h1>Hisham  Elhaggaz</h1>
+		<h1>Hisham Elhaggaz</h1>
 
 		<div class="container">
 		  <div class="center">
