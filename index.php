@@ -3,7 +3,7 @@
 <head>
 
 	<title>Hisham Elhaggaz</title>
-	<meta charset="utf-8" type="text/css"/>
+	<meta charset="utf-8/>
 	<link href='css/main.css' rel='stylesheet'>
 
 </head>
